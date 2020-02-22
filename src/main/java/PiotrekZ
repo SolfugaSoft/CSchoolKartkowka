@@ -1,0 +1,3 @@
+class PiotrekZ {
+    String imie = "PiiotrekZ";
+}
